@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class myExxception{
+class myException{
 	 public static void main(String args[]){
         System.out.println("##### Q1 Started ####");
         Scanner sc= new Scanner(System.in);
